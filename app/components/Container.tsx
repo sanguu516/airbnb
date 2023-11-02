@@ -1,4 +1,5 @@
-"use clinet";
+"use client";
+
 interface ContainerProps {
   children: React.ReactNode;
 }
